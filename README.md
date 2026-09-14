@@ -6,6 +6,8 @@
 />
 </a>
 
+<h1 align="center">Kept you waiting, huh?</h1>
+
 <h1 align="center">MY NAME IS JOHN MUSTARD🔊🔊!!!!</h1>
 <h3 align="center">7 minutes is all I can spare to play with you</h3>
 
