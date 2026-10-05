@@ -85,7 +85,7 @@ CURRENT OPS : BUILDING SOMETHING
 
 <div align="center">
 
-### `amazing mission complete that right there is why you re the best boss!`
+### `amazing mission complete that right there is why you're the best Boss, one and only`
 
 `████████████████████████████████████████`
 
