@@ -85,7 +85,7 @@ CURRENT OPS : BUILDING SOMETHING
 
 <div align="center">
 
-### `SNAKE? SNAKE?! SNAAAAKE!!!`
+### `amazing mission complete that right there is why you re the best boss!`
 
 `████████████████████████████████████████`
 
