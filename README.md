@@ -58,7 +58,7 @@
 
 ---
 
-## `02 // WEAPON SYSTEMS`
+## `02 // Skills`
 
 <div align="center">
 
